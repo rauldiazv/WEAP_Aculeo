@@ -1,6 +1,5 @@
 # WEAP_Aculeo
 
-Readme
 This file contains the surface-groundwater WEAP model of the Aculeo Lake catchment. The model was used to obtain the results presented in the Manuscript: Water management or megadrought: What is causing the Aculeo Lake drying? submitted for revision at the Water Resources Research Journal on April the 30th of 2020, by researchers of Universidad de Chile.
 The model contains the following data:
 -	Hydrometeorological data. Monthly temperature, precipitation and runoff data, recorded in the catchment.
